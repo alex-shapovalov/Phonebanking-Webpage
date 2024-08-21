@@ -4,6 +4,7 @@
 Created an in-house webpage solution designed to assist volunteers in verifying inaccurate phone numbers.
 
 ![image](https://github.com/alex-shapovalov/Phonebanking/blob/main/phonebanking1.PNG)
+![image](https://github.com/alex-shapovalov/Phonebanking/blob/main/phonebanking2.PNG)
 
 ` JavaScript + SQL Data Fetch / Return
 
