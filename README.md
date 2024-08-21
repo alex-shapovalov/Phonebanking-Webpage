@@ -1,4 +1,4 @@
-### Phonebanking portal:
+# Phonebanking portal:
 *Phone banking tool + canvassing form*
 
 Created an in-house webpage solution designed to assist volunteers in verifying inaccurate phone numbers.
