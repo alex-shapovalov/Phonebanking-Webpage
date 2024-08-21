@@ -3,8 +3,8 @@
 
 Created an in-house webpage solution designed to assist volunteers in verifying inaccurate phone numbers.
 
-![image](https://github.com/alex-shapovalov/Phonebanking/blob/main/phonebanking1.PNG)
-<img src="https://github.com/alex-shapovalov/Phonebanking/blob/main/phonebanking2.PNG" alt="Image 2" width="100%"/>
+![image](https://github.com/alex-shapovalov/Phonebanking-Webpage/blob/main/phonebanking1.PNG)
+<img src="https://github.com/alex-shapovalov/Phonebanking-Webpage/blob/main/phonebanking2.PNG" alt="Image 2" width="100%"/>
 
 ` JavaScript + SQL Data Fetch / Return
 
